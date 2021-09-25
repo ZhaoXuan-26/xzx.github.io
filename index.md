@@ -1,9 +1,13 @@
 ###个人信息
+#### 称呼：瑞雪
+#### 学历：本科
+#### 专业：教育技术学
+
 ###兴趣爱好
 ###研究方向
 
 
-## 欢迎来到我的主页
+<!-- ## 欢迎来到我的主页
 
 You can use the [editor on GitHub](https://github.com/ZhaoXuan-26/xzx.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -40,3 +44,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+ -->
